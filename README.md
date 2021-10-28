@@ -1,6 +1,6 @@
 # teaching_cam
 
-##Install steps
+## Install steps
 #### Install hombrew
 
 
