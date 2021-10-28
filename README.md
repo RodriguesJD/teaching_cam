@@ -1,18 +1,17 @@
 # teaching_cam
 
-## Install steps
+## Install Steps
+
 #### Install hombrew
 
+	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
-`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
-     python3 --version
-
-     brew install bundle
+#### Install MAS for Brewfile Management
      brew install mas
+
+#### Install Pycharm
      brew install --cask pycharm
-     brew install --cask zoom
+
+#### Command below dumps description of each pacakage to Brewfile
      brew bundle dump --describe --force
-     ls
-     tat brewfile
-     cat brewfile
 
